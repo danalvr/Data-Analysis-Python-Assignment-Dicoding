@@ -42,8 +42,8 @@ pip install -r requirements.txt
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ```
-cd Data-Analysis-Python-Assignment-Dicoding-main/dashboard
-streamlit run dashboard.py
+cd Data-Analysis-Python-Assignment-Dicoding-main
+streamlit run /dashboard/dashboard.py
 ```
 
 Access the dashboard in your web browser at `http://localhost:8501`.
