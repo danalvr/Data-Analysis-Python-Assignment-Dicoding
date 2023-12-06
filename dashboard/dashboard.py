@@ -5,9 +5,9 @@ import streamlit as st
 sns.set(style='dark')
 
 
-sum_order_items_df = pd.read_csv("data/Products.csv")
-total_transaction_per_customer = pd.read_csv("data/Transactions.csv")
-customer_counts = pd.read_csv("data/Customers.csv")
+sum_order_items_df = pd.read_csv("./data/Products.csv")
+total_transaction_per_customer = pd.read_csv("./data/Transactions.csv")
+customer_counts = pd.read_csv("./data/Customers.csv")
 
 st.header('E-Commerces Dashboard')
 
