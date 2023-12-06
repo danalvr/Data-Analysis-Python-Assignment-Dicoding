@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ```
 cd Data-Analysis-Python-Assignment-Dicoding-main
-streamlit run /dashboard/dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 
 Access the dashboard in your web browser at `http://localhost:8501`.
